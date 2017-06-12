@@ -6,4 +6,9 @@
 //  Copyright © 2017 Barry Enterprises. All rights reserved.
 //
 
-import Foundation
+import SpriteKit
+
+
+class GameScene: SKScene {
+
+}
